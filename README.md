@@ -19,6 +19,8 @@ Open with VSCode and run with Live server
 
 ## Demo
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e938319-5bd1-4a13-94f8-06449acf3712/deploy-status)](https://app.netlify.com/sites/qotd-kun/deploys)
+
 Click here for live website of
 [QotD](https://qotd-kun.netlify.app)
 
